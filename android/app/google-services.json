@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714742010240",
+    "project_id": "fir-crud-cb793",
+    "storage_bucket": "fir-crud-cb793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714742010240:android:405dbb31d3d30223883165",
+        "android_client_info": {
+          "package_name": "com.maaz.flutter_firebase_rtdb2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiID2vZhm4VZGrFin_--28MrIwuFD4aK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
